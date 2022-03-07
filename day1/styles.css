@@ -4,16 +4,11 @@ body {
     margin: 0;
 }
 
-.parent {
-    background-color: #23424A;
-    padding: 50px;
-    /* width: 900px; */
-    margin: 0 auto;
-    width: 80%
-}
+.container {
+    background: #23424a;
+    color: white;
 
-.child {
-    background-color: #38CDF9;
-    width: 50%;
-    height: 250px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 5em;
 }

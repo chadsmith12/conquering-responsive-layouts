@@ -19,3 +19,7 @@ When you set a percentage on a child element, it's  important to remember the pe
 
 Later on you will see that you don't even have to set a width on the child and that you don't always have to be setting one everytime.
 
+## Why it's a good idea to avoid Heights
+A general suggestion is that if you have to give something a height, don't. Heights can cause a lot of problems. An example of this is you give something a height because you want it to look a certain  way, then on certain devices the content starts to overflow it's container.
+
+When you do need it to take up a certain amount then you can use padding.
