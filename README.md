@@ -5,4 +5,5 @@ This repository contains notes and solutions of going through the Conquering Res
 ## Table of Contents
 
 * [Day 1](/day1/)
-* [Day 2](/day/2)
+* [Day 2](/day2/)
+* [Day 3](/day3/)
