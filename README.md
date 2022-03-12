@@ -9,3 +9,4 @@ This repository contains notes and solutions of going through the Conquering Res
 * [Day 3](/day3/)
 * Day 4 was mainly review and if you want to learn about more about optional units.
 * [Day 5](/day5/)
+* [Day 6](/day6/)
