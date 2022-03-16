@@ -12,3 +12,4 @@ This repository contains notes and solutions of going through the Conquering Res
 * [Day 6](/day6/)
 * [Day 8](/day8/)
 * [Day 9](/day9/)
+* [Day 10](/day10/)
