@@ -1,17 +1,27 @@
 .container {
     background: pink;
     height: 50vh;
-    width: 50vw;
+    width: 80vw;
     padding: 0.5em;
     margin: 25vh auto 0;
     display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    align-content: center;
+    flex-direction: row;
+    align-items: stretch;
 }
 
 .item {
     background: lightblue;
     margin: 0.5em;
-    width: 25%;
+}
+
+.one {
+    flex: 2 250px;
+}
+
+.two {
+    flex: 1 2 250px;
+}
+
+.three {
+    flex: 1 2 250px;
 }
