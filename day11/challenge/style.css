@@ -70,19 +70,20 @@ h1 {
 
 header {
     background: #136c72;
-    padding: .5em 0;
+    padding: 1em 0;
 }
 
 .nav__list {
     margin: 0;
     padding: 0;
     list-style: none;
+    display: flex;
 }
 
 .nav__link {
     color: #fff;
     text-decoration: none;
-    text-transform: uppercase;;
+    text-transform: uppercase;
 }
 
 .nav__link--button {
@@ -96,6 +97,9 @@ header {
     opacity: .75;
 }
 
+.nav__item {
+    margin-right: 1em;
+}
 
 .hero {
     padding: 100px 0;
